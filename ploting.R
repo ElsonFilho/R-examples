@@ -79,4 +79,4 @@ qplot(hwy, data= mpg, fill=drv) ## Histogram
 # Facets
 qplot(displ, hwy, data=mpg, facets=.~ drv)
 
-qplot(hwy, data = mpg, facets = drv ~ ., binwidth=2)
+qplot(hwy, data = mpg, facets = drv ~ ., binwidth=3)
