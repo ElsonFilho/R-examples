@@ -1,2 +1,4 @@
-# Examples
-some R examples code, created on the first months
+# R Statistical Analysis Examples
+
+Collection of R programming examples demonstrating statistical analysis and data visualization techniques.
+
